@@ -1,5 +1,6 @@
 # CPU Allocation / Paging Simulation
 
+
 A simple web-based simulator for **paging** in Operating Systems.
 
 ## Features
